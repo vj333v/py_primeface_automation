@@ -1,0 +1,19 @@
+// package.json
+{
+  "name": "primefaces-playwright-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.3.0",
+    "@playwright/test": "^1.12.3",
+    "@playwright/cucumber": "^0.0.1",
+    "playwright": "^1.12.3"
+  }
+}
