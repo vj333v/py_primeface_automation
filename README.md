@@ -1,6 +1,6 @@
 # PrimeFaces.org Basic Automation
 
-This repository contains a basic automation framework using Playwright and Cucumber for testing PrimeFaces.org.
+This repository contains a basic automation framework using Playwright and Cucumber for testing PrimeFaces framework based applications.
 
 ## Table of Contents
 - [Introduction](#introduction)
